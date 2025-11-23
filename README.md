@@ -92,3 +92,10 @@ Always open to discussing **Agents, LLMs, or Full-Stack ideas**.
 <p align="center">
   ⭐️ <em>If you find my projects useful, feel free to give them a star!</em>
 </p>
+## 📫 Connect With Me
+
+Always open to discussing **Agents, LLMs, or Full-Stack ideas**.
+
+- **🌐 Portfolio:** [profile-website-murex.vercel.app](https://profile-website-murex.vercel.app/)
+- **GitHub:** [github.com/Planet-Earth1234](https://github.com/Planet-Earth1234)
+- **LinkedIn:** [linkedin.com/in/rahul-g-28333427b/](https://www.linkedin.com/in/rahul-g-28333427b/)
